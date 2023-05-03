@@ -1,16 +1,32 @@
-# payment
+# Flutter Stripe Integration
+This is a Flutter project that showcases the integration of Stripe payments into a shopping app. The project includes a product detail screen design for a furniture shop.
 
-A new Flutter project.
+Features
+Displays the details of a selected furniture product, including name, description, price, and image.
+Enter payment information using Stripe
+Complete a successful payment using Stripe
 
-## Getting Started
+Installation
+To run this project, you will need to have Flutter installed. Then, clone the repository and run flutter pub get to install the dependencies.
 
-This project is a starting point for a Flutter application.
+sh
+Copy code
+git clone https://github.com/your-username/flutter-sofa-payment-stripe.git
+cd flutter-sofa-payment-stripe
+flutter pub get
+Usage
+To run the app, use flutter run.
 
-A few resources to get you started if this is your first Flutter project:
+sh
+Copy code
+flutter run
+Once the app is running, you can navigate to the sofa product page, add items to the cart, and checkout with Stripe.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1683130266](https://user-images.githubusercontent.com/84926915/235976503-a27e78e3-3c1e-4769-a010-99276b46116a.png)
+![Uploading Screenshot_1683130274.png…]()
+
+Notes
+This project uses the stripe_payment package for Flutter to interact with the Stripe API. You can find more information about the package [a here](https://pub.dev/packages/flutter_stripe).
+Make sure to replace the API keys with your own in a production environment.

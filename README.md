@@ -24,8 +24,8 @@ Once the app is running, you can navigate to the sofa product page, add items to
 
 <h3>Demo</h3>
 <div>
-<img src="https://user-images.githubusercontent.com/84926915/235976503-a27e78e3-3c1e-4769-a010-99276b46116a.png" width="48">
-<img src="https://user-images.githubusercontent.com/84926915/235983534-80094e69-177f-4204-9cf7-aada9157caa0.png" width="48>
+<img src="https://user-images.githubusercontent.com/84926915/235976503-a27e78e3-3c1e-4769-a010-99276b46116a.png" width="200">
+<img src="https://user-images.githubusercontent.com/84926915/235983534-80094e69-177f-4204-9cf7-aada9157caa0.png" width="200">
 </div>
 
 
